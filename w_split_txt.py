@@ -20,4 +20,6 @@ but.bind('<Button-1>', str_to_sort_list)
 ent.pack()
 but.pack()
 lab.pack()
+
+
 root.mainloop()
